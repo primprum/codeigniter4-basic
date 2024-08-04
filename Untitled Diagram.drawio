@@ -266,6 +266,32 @@
         <mxCell id="u9MNgZG-miQS374oB8R1-31" value="sudo xed /etc/php/php.ini" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="870" width="200" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="u9MNgZG-miQS374oB8R1-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u9MNgZG-miQS374oB8R1-34" target="u9MNgZG-miQS374oB8R1-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9MNgZG-miQS374oB8R1-34" value="add some syntax" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="960" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9MNgZG-miQS374oB8R1-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u9MNgZG-miQS374oB8R1-35" target="u9MNgZG-miQS374oB8R1-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9MNgZG-miQS374oB8R1-35" value="&lt;pre class=&quot;lang-php s-code-block&quot;&gt;&lt;code class=&quot;hljs language-php&quot; data-highlighted=&quot;yes&quot;&gt;&lt;span class=&quot;hljs-meta&quot;&gt;#[\AllowDynamicProperties&lt;/span&gt;&lt;span class=&quot;hljs-meta&quot;&gt;]&lt;/span&gt;&lt;br/&gt;&lt;/code&gt;&lt;/pre&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="965" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u9MNgZG-miQS374oB8R1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u9MNgZG-miQS374oB8R1-37" target="u9MNgZG-miQS374oB8R1-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u9MNgZG-miQS374oB8R1-41" value="more information at" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u9MNgZG-miQS374oB8R1-40">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u9MNgZG-miQS374oB8R1-37" value="into each of the error file" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="960" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u9MNgZG-miQS374oB8R1-39" value="https://stackoverflow.com/questions/75122899/creation-of-dynamic-property-ci-uriconfig-is-deprecated" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="960" width="590" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
