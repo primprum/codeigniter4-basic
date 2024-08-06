@@ -1132,6 +1132,9 @@
         <mxCell id="aguLvqrGF4bpYsc-MFfy-32" value="and into &lt;b&gt;$globals&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1598.27" y="1197.75" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aguLvqrGF4bpYsc-MFfy-33" value="&lt;b&gt;Create the API Controller&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
